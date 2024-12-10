@@ -1,1 +1,1 @@
-# Simple Data-Science analyses
+# Data-Science analyses
