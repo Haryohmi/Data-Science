@@ -13,6 +13,7 @@ XGBoost (Extreme Gradient Boosting) for its speed and accuracy.
 Accuracy: 98% on the test set
 
 Reliability: Actual vs. Predicted labels strongly align, validating the model’s robustness.
+<img align="centre" src="./Screenshot 2024-12-27 at 21.59.53.png" style="width:800px; padding: 10px;  " /> 
 
 
 # Conclusion
