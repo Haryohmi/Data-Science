@@ -26,6 +26,6 @@ Outcome: 93.5% accuracy using Random Forest, offering valuable insights for opti
 [Link Here](https://github.com/Haryohmi/Data-Science/tree/30785d0137dd4fba2b31ec7ba70f2caa5fff1094/Classification(Predicting_Customer_Conversion)/)
 
 Contact
-LinkedIn: linkedin.com/in/mayowadada/
+[LinkedIn:](linkedin.com/in/mayowadada/)
 
 Thank you for exploring these projects! Each one illustrates a unique approach to solving industry challenges using data-driven methods, highlighting the power of analytics to shape better decisions and outcomes.
